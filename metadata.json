@@ -1,0 +1,6 @@
+{
+  "name": "SoyeTECH — Portfolio Professionnel de Soye Evra",
+  "description": "Portfolio professionnel et technologique de Soye Evra (SoyeTECH) : informatique, développement logiciel, électronique, IA et solutions numériques en Côte d'Ivoire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
